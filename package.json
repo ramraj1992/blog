@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramraj1992/blog.git"
+  },
+  "author": "Ram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramraj1992/blog/issues"
+  },
+  "homepage": "https://github.com/ramraj1992/blog#readme",
+  "devDependencies": {
+    "exec-chainable": "0.0.3",
+    "gulp": "^3.9.1",
+    "gulp-minify": "^1.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-watch": "^4.3.11",
+    "rimraf": "^2.6.2",
+    "standard": "^8.6.0"
+  }
+}
